@@ -28,6 +28,7 @@ public class Controlador implements IControladorService {
 
     }
 
+//Subir proyectos a gitHub
 
 //git init
 //git status
@@ -38,6 +39,13 @@ public class Controlador implements IControladorService {
 //git commit -m "Primer parte"
 //git branch -m main
 //git remote add origin Aqui va el link del repositorio
+//git push -u origin main
+
+//Agregar cambios
+
+//git status
+//git add .
+//git commit -m "Se agrega cambio"
 //git push -u origin main
 
     @Override
