@@ -28,6 +28,18 @@ public class Controlador implements IControladorService {
 
     }
 
+
+//git init
+//git status
+//git add .
+//git commit -m "Primer parte"
+//config --global user.email cardona21507@gmail.com
+//config --global user.name steven122750
+//git commit -m "Primer parte"
+//git branch -m main
+//git remote add origin Aqui va el link del repositorio
+//git push -u origin main
+
     @Override
     public boolean guardarDeuda(int codigo, String aQuienDebo, String fechaDeuda, float cantidad) {
 
