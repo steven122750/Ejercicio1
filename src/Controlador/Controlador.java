@@ -52,10 +52,12 @@ public class Controlador implements IControladorService {
 
 //git branch nombreRama(Crear rama)
 //git checkout nombreRama (cambiar a rama)
+//git checkout -b nombreRama (Crear rama y pasarse a ella)
 //git branch (ver ramas)
-//git merge nombreRama (combinar ramas)
-//git branch -d nombreRama (eliminar rama)
-//git push -u origin nombreRama (Subir cambios en una rama creada)
+//git merge nombreRama (combinar rama actual con la seleccionada)
+//git branch -d nombreRama (eliminar rama local)
+//git push -u origin nombreRama (crear rama remota y subir cambios)
+//git push origin :nombreRama (eliminar rama remota)
 
 
 
