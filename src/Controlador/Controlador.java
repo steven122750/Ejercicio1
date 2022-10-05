@@ -48,9 +48,14 @@ public class Controlador implements IControladorService {
 //git commit -m "Se agrega cambio"
 //git push -u origin main
 
-//cambios aplicados
+//crear ramas, cambiar de rama
 
-//cambios aplicados 2
+//git branch nombreRama(Crear rama)
+//git checkout nombreRama (cambiar a rama)
+//git branch (ver ramas)
+//git merge nombreRama (combinar ramas)
+//git branch -d nombreRama (eliminar rama)
+
 
     @Override
     public boolean guardarDeuda(int codigo, String aQuienDebo, String fechaDeuda, float cantidad) {
